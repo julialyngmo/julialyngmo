@@ -1,11 +1,17 @@
 ## Hey there 👋
 
+Studying Informatics w/ focus on System Development from home 🏡
+
+Current topic @ uni = C# 🖥️
+
+
+You can best reach me through instagram, link to your left ⬅️
 <!--
 **julialyngmo/julialyngmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying Informatics with focus on system development from home ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C# ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
