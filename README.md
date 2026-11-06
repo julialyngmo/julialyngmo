@@ -1,11 +1,13 @@
 ## Hey there 👋
 
-🏡 Studying Informatics w/ focus on System Development from home 🏡
+🏡 Studying Informatics w/ focus on System Development from home 
 
-🖥️ Current topic @ uni = C# 🖥️
+🖥️ Current topic @ uni = C# 
 
 
-⬅️ You can best reach me through instagram, link to your left ⬅️
+⬅️ You can best reach me through instagram, link to your left
+
+🎮 or Discord, username : sandbay
 <!--
 **julialyngmo/julialyngmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
